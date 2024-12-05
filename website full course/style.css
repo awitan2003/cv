@@ -1,0 +1,83 @@
+.bgimg{
+      background-image: url(..img/1.jpg);
+      background-size: cover;
+      background-attachment: fixed;
+      width: 100%;
+ }
+ 
+ .headerset{
+      padding: 300px;
+      box-sizing: border-box:
+      margin-top: 35px;
+ }
+ 
+ .headerset h1{
+   font-size: 70px;
+   font-weight: bolder;
+   font-family: cursive;
+   transition: 0.7s ease;
+ }
+ 
+ .headerset h6{
+           font-size: 20px;
+           padding: 20px;
+ }
+ 
+ .headerset h1:hover{
+     font-size: 70px;
+     color: skyblue;
+ }
+ 
+ .headerset h1:hover{
+     font-size: 28px;
+     color: skyblue;
+ }
+ 
+ .@media only screen and (max-width: 800px;){
+  
+  .headerset h1{ 
+                 font-size: 30px
+                 font-weight:bold;
+                 font-family: cursive;
+                 transition: 0.7s ease;
+ }
+ 
+ .headerset{
+        padding: 300px
+        box-sizing: border-box;
+        margin-top: 100px;
+ }
+ 
+ .post{
+     color: rgb(0, 0, 0,);
+     margin-top: 300px;
+     font-size: 56px;
+     margin-bottom: 25px;
+ }
+ 
+ .navbar-nav li a{
+     transition: 0.7s ease;
+     margin: 18px;
+ }
+ 
+ .navbar-nav li a:hover{
+     background-color: 
+ }
+ 
+ .section{
+     padding: 20px;
+     margin: 20px;
+ }
+ 
+ .card-group{
+     margin: 25px;
+     transition: 0.7s ease;
+ }
+ 
+ .card{
+   margin: 25px;
+ }
+ 
+ .card:hover{
+   opacity: 0.3;
+ }
